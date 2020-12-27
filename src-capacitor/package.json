@@ -1,0 +1,13 @@
+{
+  "name": "quasar-weather",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "author": "Gözde Sarıaslan <sariaslangozde@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.4.5",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0",
+    "@capacitor/ios": "^2.4.5"
+  }
+}
